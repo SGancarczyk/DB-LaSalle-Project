@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Office temporary lock files
+~$*
+
+# SQLite database (generated from the .sql scripts)
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
