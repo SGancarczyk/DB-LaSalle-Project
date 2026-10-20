@@ -13,3 +13,6 @@
 *.sqlite
 *.sqlite3
 *.db-journal
+
+# Unrelated nested repo
+medical_database/

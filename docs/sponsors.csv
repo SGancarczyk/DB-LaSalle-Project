@@ -1,0 +1,151 @@
+sponsor_id,company_name,industry,sponsorship_budget,country_code
+1,Edgepulse,Healthcare,8557794.51,CHN
+2,Fanoodle,Finance,18854407.32,GBR
+3,Thoughtworks,Food & Beverage,5305384.43,BRA
+4,Dabshots,Finance,4459219.41,KOR
+5,Centidel,Automotive,4553432.52,KOR
+6,Jabbertype,Sports Equipment,20864023.63,ESP
+7,Yacero,Healthcare,31389079.98,AUS
+8,Tagfeed,Media,3597912.77,GER
+9,Voolia,Automotive,14882282.61,CAN
+10,Photofeed,Technology,25814962.55,GBR
+11,Yotz,Telecommunications,1196040.65,ESP
+12,Skynoodle,Sports Equipment,13724942.65,ITA
+13,Yambee,Technology,48694303.85,USA
+14,Ooba,Food & Beverage,38950884.78,FRA
+15,Gigaclub,Technology,13476557.82,KOR
+16,Jayo,Telecommunications,21395349.49,POL
+17,Topicstorm,Technology,26917269.66,BRA
+18,Skinder,Finance,1086027.93,NED
+19,Nlounge,Healthcare,23650471.98,CHN
+20,Gabcube,Technology,34099243.43,NED
+21,Yadel,Media,28080177.89,GER
+22,Rhycero,Healthcare,11223290.92,ITA
+23,Cogilith,Finance,43013529.99,ITA
+24,Dynava,Retail,1486867.01,CAN
+25,Yotz,Sports Equipment,42536441.66,JPN
+26,Livefish,Retail,15051710.89,ESP
+27,Edgewire,Energy,33313977.81,KOR
+28,Quinu,Technology,397289.63,NOR
+29,Edgetag,Technology,8285251.17,FRA
+30,Layo,Healthcare,31414298.69,POL
+31,Myworks,Energy,17696633.13,JPN
+32,Oyope,Energy,33362673.16,ITA
+33,Lazz,Media,1528395.76,AUS
+34,Thoughtbridge,Finance,49665013.34,BRA
+35,Twitterworks,Finance,31987198.61,USA
+36,Chatterpoint,Healthcare,6728989.24,NOR
+37,Divanoodle,Technology,1118457.85,NED
+38,Podcat,Media,39195195.06,FRA
+39,Quimm,Healthcare,8316143.33,GER
+40,Wordware,Sports Equipment,40274955.81,NED
+41,Topiczoom,Energy,30632587.13,GER
+42,Topicstorm,Technology,4604148.04,CAN
+43,Twitterworks,Healthcare,2954795.56,CHN
+44,Youfeed,Telecommunications,35367215.33,KOR
+45,Shuffletag,Telecommunications,48653683.7,USA
+46,Tagcat,Finance,31945371.39,CAN
+47,Oloo,Technology,16812287.97,USA
+48,Voonder,Sports Equipment,3685797.05,ESP
+49,Photobug,Media,1871084.09,FRA
+50,Jaxworks,Retail,13132841.29,KOR
+51,Linkbuzz,Finance,1137858.64,NED
+52,Realblab,Sports Equipment,47128954.21,CAN
+53,Skilith,Food & Beverage,4476516.94,ESP
+54,Browsecat,Automotive,33792116.11,AUS
+55,Zoombox,Technology,37134945.02,BRA
+56,Blognation,Technology,44735179.78,POL
+57,Zoomdog,Sports Equipment,4057549.21,FRA
+58,Skilith,Healthcare,39561743.12,CAN
+59,Devcast,Automotive,6569609.59,GBR
+60,Kayveo,Healthcare,25753489.0,GER
+61,Yozio,Retail,13507294.57,CHN
+62,LiveZ,Energy,37651603.2,CHN
+63,Meezzy,Energy,43943600.59,POL
+64,Oba,Automotive,40077400.96,FRA
+65,Mymm,Food & Beverage,37258129.83,JPN
+66,Twinder,Food & Beverage,36982338.2,KOR
+67,Edgetag,Food & Beverage,29037633.0,CHN
+68,Dabfeed,Retail,13938225.62,KOR
+69,Yozio,Sports Equipment,11829002.34,CHN
+70,Thoughtworks,Telecommunications,37201517.43,ESP
+71,Jetpulse,Telecommunications,25520902.74,BRA
+72,Quimm,Retail,16541905.35,POL
+73,Digitube,Food & Beverage,47227038.39,AUS
+74,Jaxnation,Healthcare,5988212.48,GBR
+75,Centizu,Food & Beverage,22964712.96,BRA
+76,Livetube,Retail,18496913.82,GER
+77,Dynabox,Finance,15805475.61,KOR
+78,Tavu,Finance,40213701.8,NOR
+79,Bubbletube,Telecommunications,5315618.97,ESP
+80,Jaxnation,Finance,20337849.95,CAN
+81,Shufflebeat,Energy,6852310.91,GBR
+82,Dazzlesphere,Media,42263514.17,JPN
+83,Jabberstorm,Healthcare,8209550.27,FRA
+84,Rhynoodle,Technology,8986393.83,USA
+85,Gabtune,Energy,1536259.62,AUS
+86,Roodel,Finance,32245335.99,CHN
+87,Devbug,Technology,23427660.32,AUS
+88,Podcat,Sports Equipment,26847020.6,JPN
+89,Skinte,Finance,46002170.2,GBR
+90,Devify,Healthcare,44485796.82,POL
+91,Meedoo,Telecommunications,49694380.2,JPN
+92,Edgeclub,Healthcare,12852690.62,AUS
+93,Zoombeat,Sports Equipment,29630507.36,CHN
+94,Zooveo,Technology,29843472.87,NED
+95,Edgeclub,Finance,43027149.47,ESP
+96,Livepath,Retail,18547705.73,USA
+97,Zoonder,Telecommunications,7852896.01,CHN
+98,Skimia,Finance,17517478.53,FRA
+99,Livetube,Sports Equipment,42854681.64,CAN
+100,Eabox,Retail,42693422.63,ITA
+101,Skyba,Retail,14208022.81,CAN
+102,Trunyx,Media,27857869.81,ESP
+103,Mycat,Telecommunications,35664154.01,ESP
+104,Skidoo,Retail,5903738.99,ITA
+105,Riffwire,Automotive,30866397.74,NOR
+106,Cogibox,Automotive,47371033.78,POL
+107,Talane,Technology,21638333.68,BRA
+108,Centidel,Technology,25481595.0,GER
+109,Agivu,Healthcare,44336084.68,ESP
+110,Realbuzz,Healthcare,36519892.79,FRA
+111,Rhybox,Media,8607277.72,NOR
+112,Zooxo,Energy,46157581.05,BRA
+113,Vipe,Telecommunications,16428724.01,FRA
+114,Jatri,Media,45527811.97,GBR
+115,Dynabox,Finance,32078619.76,BRA
+116,Jetpulse,Food & Beverage,6572198.41,KOR
+117,Feedfish,Media,34537744.19,JPN
+118,BlogXS,Telecommunications,19116313.76,CAN
+119,Brightbean,Automotive,15302049.26,KOR
+120,Thoughtmix,Food & Beverage,32679111.35,NED
+121,Yoveo,Healthcare,31507311.8,AUS
+122,Rhyzio,Food & Beverage,26957163.15,CAN
+123,Bubblemix,Sports Equipment,29042316.55,CHN
+124,Yata,Media,29842230.59,POL
+125,Brainsphere,Healthcare,37677488.59,FRA
+126,Zoonder,Technology,38901132.18,USA
+127,Gevee,Finance,37808764.34,KOR
+128,Meetz,Retail,656725.82,FRA
+129,Tagtune,Automotive,724575.08,GER
+130,Tazz,Telecommunications,35671198.87,GBR
+131,Tagtune,Media,49919912.39,NOR
+132,Izio,Technology,15206384.45,CAN
+133,Youspan,Automotive,47032678.93,GBR
+134,Eare,Media,48681473.18,GBR
+135,Topicstorm,Telecommunications,15922391.74,USA
+136,Jaxnation,Media,19079215.81,GER
+137,Blogspan,Healthcare,43237733.54,USA
+138,Feedmix,Retail,47756776.23,JPN
+139,Katz,Healthcare,47787617.89,CAN
+140,Twinte,Media,13372632.14,GER
+141,Mita,Sports Equipment,31204548.49,AUS
+142,Demimbu,Technology,6795529.11,POL
+143,Bluejam,Technology,6479112.35,USA
+144,Thoughtworks,Media,47581064.55,FRA
+145,Browsecat,Media,10330664.99,BRA
+146,Gigazoom,Sports Equipment,27509082.6,POL
+147,BlogXS,Sports Equipment,38818911.71,ESP
+148,Mydo,Technology,36083408.71,AUS
+149,Vitz,Sports Equipment,11712666.57,FRA
+150,Blogtag,Media,27075157.75,GBR
